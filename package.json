@@ -2,7 +2,6 @@
   "name": "eslint-config-jorch-romera",
   "version": "1.0.0",
   "main": "index.js",
-  "private": true,
   "dependencies": {
     "@babel/core": "7.4.3",
     "@typescript-eslint/eslint-plugin": "2.3.1",
