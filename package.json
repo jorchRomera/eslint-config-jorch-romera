@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jorch-romera",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "dependencies": {
     "@babel/core": "7.4.3",
