@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-jorch-romera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "7.4.3",
+    "@typescript-eslint/eslint-plugin": "2.3.1",
+    "@typescript-eslint/parser": "^2.3.1",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-eslint": "10.0.3",
+    "eslint": "^6.4.0",
+    "eslint-config-react": "^1.1.7",
+    "eslint-config-react-app": "^5.0.2",
+    "eslint-loader": "^3.0.2",
+    "eslint-plugin-flowtype": "^3.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^2.1.0",
+    "typescript": "^3.6.3"
+  },
+  "eslintConfig": {}
+}
